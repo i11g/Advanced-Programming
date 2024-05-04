@@ -25,13 +25,13 @@ The course is part of SoftUni QA Automation Program and focus on:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on 
 - Many thanks to...
 
 ## Contact
 Created by [](https://) - feel free to contact me!
 
 ## License 
-This project is open source and available under the [... License](). 
+This project is open source and available under the [MIT License]. 
 
 
