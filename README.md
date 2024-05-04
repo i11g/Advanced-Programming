@@ -8,7 +8,7 @@
 * [Features](#features)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+* [License](#license) -->
 
 ## General Information
 - The project contains my solutions of the task and problems included in AdvancecdProgramming course. 
