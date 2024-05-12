@@ -14,8 +14,11 @@ This repoaitory contains my solutions of the tasks and problems included in Adva
 The course is part of SoftUni QA Automation Program and focus on:
 - associative arrays, lambda expressions, LINQ, regular expressions
 - object-oriented programming, including classes and objects, inheritance, and interfaces
-- unit testing
-- Why did you undertake it?
+- Работа с асоциативни структури от данни
+- Работа със стрингова текстообработка и регулярни изрази
+- Работа с класове, създаване на шаблонни класове
+- Създаване на йерархия от класове и наследяване
+- Разбиране на парадигмата за обектно-ориентирано програмиране
 
 ## Technologies Used
 - C # - version 1.0
@@ -23,10 +26,8 @@ The course is part of SoftUni QA Automation Program and focus on:
 - N Unit - version 3.0
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on 
-- Many thanks to...
+
+- Many thanks to SoftUni
 
 ## Contact
 Created by [](https://) - feel free to contact me!
