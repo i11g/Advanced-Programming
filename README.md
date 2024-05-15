@@ -1,5 +1,5 @@
 # Advanced Programming
-This repoaitory contains my solutions of the tasks and problems included in Advancecd Programming course. 
+This repo contains my solutions of the tasks and problems included in Advancecd Programming course. 
 
 ## Table of Contents
 * [General Info](#general-information)
