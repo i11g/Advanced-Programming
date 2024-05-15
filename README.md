@@ -18,7 +18,6 @@ The course is part of SoftUni QA Automation Program and focus on:
 - Working with classes, creating template classes
 - Creating a class hierarchy and inheritance
 - Understanding the object-oriented programming paradigm.
-
 ## Technologies Used
 - C #, N Unit and .Net - version 8.0
 
