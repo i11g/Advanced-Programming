@@ -4,7 +4,6 @@ This repo contains tasks and problems included in Advancecd Programming for QA c
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license) 
