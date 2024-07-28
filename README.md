@@ -1,10 +1,9 @@
 # Advanced Programming
-This repo contains my solutions of the tasks and problems included in Advancecd Programming for QA course. 
+This repo contains tasks and problems included in Advancecd Programming for QA course. 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license) 
@@ -19,7 +18,7 @@ The course is part of SoftUni QA Automation Program and focus on:
 - Creating a class hierarchy and inheritance
 - Understanding the object-oriented programming paradigm.
 ## Technologies Used
-- C #, N Unit and .Net - version 8.0
+- C#, NUnit and .Net
 
 ## Acknowledgements
 
