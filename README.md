@@ -18,7 +18,7 @@ The course is part of SoftUni QA Automation Program and focus on:
 - Creating a class hierarchy and inheritance
 - Understanding the object-oriented programming paradigm.
 ## Technologies Used
-- C#, NUnit and .Net
+- C#, NUnit and .Net Framework
 
 ## Acknowledgements
 
